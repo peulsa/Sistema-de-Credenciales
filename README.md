@@ -2,8 +2,8 @@
 ## Erika Aristizabal / Matias Baeza (Sección 1 de Patrones de diseño)
 
 Este repositorio contiene el proyecto `DemonEvento`, desarrollado en NetBeans, enfocado en la gestión de formularios y configuraciones para un sistema de credenciales.
-## Revisar la Wiki
 
+### 👀Revisar la Wiki
 ### 📁 Estructura del Proyecto
 
 El repositorio está intencionalmente limpio y solo incluye las carpetas esenciales:
@@ -45,5 +45,6 @@ Esto se gestiona mediante el archivo `.gitignore`.
 ## 📦 Cómo Clonar el Proyecto
 
 ```bash
+
 git clone https://github.com/TU_USUARIO/Sistema-de-Credenciales.git
 cd Sistema-de-Credenciales
