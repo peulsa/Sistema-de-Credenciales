@@ -1,9 +1,9 @@
-# Sistema de Credenciales - DemonEvento
+# Sistema de Credenciales - DemonEvento 👀Revisar la Wiki
 ## Erika Aristizabal / Matias Baeza (Sección 1 de Patrones de diseño)
 
 Este repositorio contiene el proyecto `DemonEvento`, desarrollado en NetBeans, enfocado en la gestión de formularios y configuraciones para un sistema de credenciales.
 
-### 👀Revisar la Wiki
+
 ### 📁 Estructura del Proyecto
 
 El repositorio está intencionalmente limpio y solo incluye las carpetas esenciales:
